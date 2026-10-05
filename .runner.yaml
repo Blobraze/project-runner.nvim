@@ -1,0 +1,2 @@
+mode: float
+project: "YOUR RUNNER CODE GOES HERE, eg.: 'go run .', './custom_build_script.sh'"
